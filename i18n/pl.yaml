@@ -25,6 +25,15 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "Odpowiedz przez email"
+  reply_to: "Odpowiedź na {{ .Title }}"
+
+a11y:
+  title: "Ustawienia dostępności"
+  disable_blur: "Wyłącz rozmycie"
+  disable_images: "Wyłącz obrazy"
+  show_link_underline: "Pokaż podkreślenie linków"
+  font_size: "Rozmiar czcionki"
 
 author:
   byline_title: "Autor"
@@ -71,3 +80,10 @@ shortcode:
 
 recent:
   show_more: "Pokaż Więcej"
+
+cookie_notice:
+  message_with_link: "Ta strona internetowa używa plików cookie i podobnych technologii. Przeczytaj naszą politykę prywatności"
+  message: "Ta strona internetowa używa plików cookie i podobnych technologii. Korzystając z tej strony internetowej, akceptujesz to."
+  privacy_policy: "politykę prywatności"
+  button: "Rozumiem"
+  image_alt: "Ikona pliku cookie"
